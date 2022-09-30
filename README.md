@@ -1,2 +1,3 @@
-# Ideal-keyboard-layout
- An application of genetic algorithm to find the ideal positions of characters on the keyboard.
+# Ideal keyboard layout
+
+Using genetic algorithm to find the ideal placement of characters on the keyboard to maximize efficiency while typing.
